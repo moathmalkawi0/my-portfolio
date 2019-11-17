@@ -4,8 +4,8 @@ phases:
   build:
     commands:
       - echo Nothing to do yet
-    artifacts:
-    files:
+artifacts:
+  files:
       -index.html
       -favicon.icon
       -Moath-Malkawi-CV-new .pdf
