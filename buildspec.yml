@@ -3,7 +3,7 @@ version: 0.1
 phases:
   build:
     commands:
-      - echo Nothing to do yet
+      -echo Nothing to do yet
       artifacts:
         files:
           -index.html
@@ -11,4 +11,3 @@ phases:
           -Moath-Malkawi-CV-new .pdf
           -styles/main.Css
           -images/*
-          
