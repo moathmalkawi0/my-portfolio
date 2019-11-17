@@ -4,10 +4,10 @@ phases:
   build:
     commands:
       - echo Nothing to do yet
-      artifacts:
-        files:
-          -index.html
-          -favicon.icon
-          -Moath-Malkawi-CV-new .pdf
-          -styles/main.Css
-          -images/*
+    artifacts:
+    files:
+      -index.html
+      -favicon.icon
+      -Moath-Malkawi-CV-new .pdf
+      -styles/main.Css
+      -images/*
