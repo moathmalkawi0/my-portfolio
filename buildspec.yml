@@ -9,5 +9,5 @@ artifacts:
     - index.html
     - favicon.icon
     - Moath-Malkawi-CV-new.pdf
-    - styles/main.Css
+    - styles/*
     - images/*
