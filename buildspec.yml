@@ -6,8 +6,8 @@ phases:
       - echo Nothing to do yet
 artifacts:
   files:
-      - index.html
-      - favicon.icon
-      - Moath-Malkawi-CV-new .pdf
-      - styles/main.Css
-      - images/*
+    - index.html
+    - favicon.icon
+    - Moath-Malkawi-CV-new.pdf
+    - styles/main.Css
+    - images/*
