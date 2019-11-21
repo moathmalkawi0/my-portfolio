@@ -12,5 +12,3 @@ artifacts:
     - styles/*
     - images/*
     - buildspec.yml
-    - upload-portfoli-lambda.py
-    - babel.html
