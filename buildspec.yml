@@ -11,3 +11,6 @@ artifacts:
     - Moath-Malkawi-CV-new.pdf
     - styles/*
     - images/*
+    - buildspec.yml
+    - upload-portfoli-lambda.py
+    - babel.html
